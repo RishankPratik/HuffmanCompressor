@@ -18,3 +18,8 @@ Text file compressor using Huffman Encoding Algorithm
 * Python3
 * XAMPP
 * Editor/IDE for LAMP Stack
+
+## Screenshots
+![Screenshot (2)](https://user-images.githubusercontent.com/70879718/100959271-f25a0980-3543-11eb-8bac-80b2d637da64.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/70879718/100959275-f38b3680-3543-11eb-8a7f-c8e3bbe1172a.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/70879718/100959278-f4bc6380-3543-11eb-83c9-69881499184e.png)
